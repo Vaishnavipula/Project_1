@@ -6,8 +6,7 @@ a lot of things by self-learning and exploring.**
 <br>
 <br>
 **Key skills/tech used:**
-
-<br>
+<br><br>
 1 AWS Services: <br>
  * EC2 (Elastic Cloud Computing)<br>
  * VPC (Virtual Private Cloud)<br>
