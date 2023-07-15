@@ -23,4 +23,4 @@ Key skills/tech used:
  > Python<br>
  > Database (MySQL)
 
-https://docs.google.com/document/d/1snn74FNNNlu4VT2Ap7FnNAc0Zj5FIG7j/edit
+https://drive.google.com/file/d/16LT2EDg0f1Hxcx-yP1DNygjMUyoxq44Y/view?usp=sharing
