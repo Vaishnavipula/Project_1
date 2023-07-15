@@ -3,8 +3,9 @@
 **Created a 3-Tier Web application and deployed it in Cloud. Defined the presentation tier, Application tier, Database tier and
 developed architecture accordingly. By doing this I got hands on experience on below mentioned AWS Services and learned
 a lot of things by self-learning and exploring.**
-
-Key skills/tech used:
+<br>
+<br>
+**Key skills/tech used:**
 <br>
 *AWS Services: <br>
  > EC2 (Elastic Cloud Computing)<br>
