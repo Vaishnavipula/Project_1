@@ -2,7 +2,8 @@
 ## 3-Tier Web Application Deployment Using Cloud
 **Created a 3-Tier Web application and deployed it in Cloud. Defined the presentation tier, Application tier, Database tier and
 developed architecture accordingly. By doing this I got hands on experience on below mentioned AWS Services and learned
-a lot of things by self-learning and exploring.
+a lot of things by self-learning and exploring.**
+
 Key skills/tech used:
 <br>
 *AWS Services<br>
@@ -20,6 +21,6 @@ Key skills/tech used:
 *Back-end tools<br>
  > Java<br>
  > Python<br>
- > Database (MySQL)**<br>
+ > Database (MySQL)
 
 https://docs.google.com/document/d/1snn74FNNNlu4VT2Ap7FnNAc0Zj5FIG7j/edit
