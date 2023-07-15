@@ -13,17 +13,15 @@ a lot of things by self-learning and exploring.**
  * RDS (Relational Database Service)<br>
  * ASG (Auto Scaling Group)<br>
  * ELB (Elastic Load Balancer)<br>
-<br>
+
 2 Front-end tools: <br>
  * HTML<br>
  * CSS<br>
  * PHP<br>
-<br>
+
 3 Back-end tools: <br>
  * Java<br>
  * Python<br>
  * Database (MySQL)
-<br>
 **Here is document Link**
-<br>
 https://drive.google.com/file/d/16LT2EDg0f1Hxcx-yP1DNygjMUyoxq44Y/view?usp=sharing
