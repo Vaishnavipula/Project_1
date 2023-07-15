@@ -7,20 +7,19 @@ a lot of things by self-learning and exploring.**
 <br>
 **Key skills/tech used:**
 <br>
-
-* AWS Services: <br>
+1 AWS Services: <br>
  - EC2 (Elastic Cloud Computing)<br>
  - VPC (Virtual Private Cloud)<br>
  - RDS (Relational Database Service)<br>
  - ASG (Auto Scaling Group)<br>
  - ELB (Elastic Load Balancer)<br>
 <br>
-* Front-end tools: <br>
+2 Front-end tools: <br>
  - HTML<br>
  - CSS<br>
  - PHP<br>
 <br>
-* Back-end tools: <br>
+3 Back-end tools: <br>
  - Java<br>
  - Python<br>
  - Database (MySQL)
