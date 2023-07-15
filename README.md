@@ -8,7 +8,7 @@ a lot of things by self-learning and exploring.**
 **Key skills/tech used:**
 <br>
 
-*AWS Services: <br>
+* AWS Services: <br>
  > EC2 (Elastic Cloud Computing)<br>
  > VPC (Virtual Private Cloud)<br>
  > RDS (Relational Database Service)<br>
@@ -20,7 +20,7 @@ a lot of things by self-learning and exploring.**
  > CSS<br>
  > PHP<br>
 <br>
-*Back-end tools: <br>
+* Back-end tools: <br>
  > Java<br>
  > Python<br>
  > Database (MySQL)
