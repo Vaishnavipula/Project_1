@@ -23,6 +23,3 @@ a lot of things by self-learning and exploring.**
  * Java<br>
  * Python<br>
  * Database (MySQL)
-
-### This is document Link
-https://drive.google.com/file/d/16LT2EDg0f1Hxcx-yP1DNygjMUyoxq44Y/view?usp=sharing
